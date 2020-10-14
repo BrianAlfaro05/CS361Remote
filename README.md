@@ -1,1 +1,1 @@
-# CS361Remote
+# Welcome to CS361Remote
